@@ -1,0 +1,18 @@
+{
+  "name": "dicer",
+  "version": "1.0.0",
+  "description": "Just a few tests with Dicer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dicer"
+  ],
+  "author": "Geverton Santos",
+  "license": "ISC",
+  "dependencies": {
+    "dicer": "^0.3.1"
+  }
+}
